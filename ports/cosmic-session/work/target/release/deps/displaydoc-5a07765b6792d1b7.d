@@ -1,0 +1,8 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/displaydoc-5a07765b6792d1b7.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/attr.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/expand.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/fmt.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libdisplaydoc-5a07765b6792d1b7.so: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/attr.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/expand.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/fmt.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/attr.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/expand.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/displaydoc-0.2.5/src/fmt.rs:

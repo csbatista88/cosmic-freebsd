@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/polling-e39308a4af8b5f9b.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os/kqueue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libpolling-e39308a4af8b5f9b.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os/kqueue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libpolling-e39308a4af8b5f9b.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os/kqueue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/os/kqueue.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/polling-3.10.0/src/kqueue.rs:

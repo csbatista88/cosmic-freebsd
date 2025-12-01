@@ -1,0 +1,5 @@
+bin/cosmic-session
+share/wayland-sessions/cosmic-session.desktop
+/usr/local/share/licenses/cosmic-session-1.0.0.b.7/catalog.mk
+/usr/local/share/licenses/cosmic-session-1.0.0.b.7/LICENSE
+/usr/local/share/licenses/cosmic-session-1.0.0.b.7/GPLv3+

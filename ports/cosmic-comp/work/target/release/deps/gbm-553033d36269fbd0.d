@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/gbm-553033d36269fbd0.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/buffer_object.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/device.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/surface.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libgbm-553033d36269fbd0.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/buffer_object.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/device.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/surface.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libgbm-553033d36269fbd0.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/buffer_object.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/device.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/surface.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/buffer_object.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/device.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/gbm-0.18.0/src/surface.rs:

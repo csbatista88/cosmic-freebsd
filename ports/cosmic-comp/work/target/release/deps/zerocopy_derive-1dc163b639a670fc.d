@@ -1,0 +1,8 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/zerocopy_derive-1dc163b639a670fc.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/enum.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/ext.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/repr.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libzerocopy_derive-1dc163b639a670fc.so: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/enum.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/ext.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/repr.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/enum.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/ext.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/zerocopy-derive-0.8.27/src/repr.rs:

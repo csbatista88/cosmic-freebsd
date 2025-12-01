@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/autocfg-ac482250b8526d65.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libautocfg-ac482250b8526d65.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libautocfg-ac482250b8526d65.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs:

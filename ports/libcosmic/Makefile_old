@@ -1,0 +1,90 @@
+# /home/christian/ports/libcosmic/Makefile
+PORTNAME=	libcosmic
+DISTVERSIONPREFIX=	epoch-
+
+#remove distdir
+DISTDIR=	${.CURDIR}/../distfiles
+
+DISTVERSION=	1.0.0-beta.4
+CATEGORIES=	devel graphics
+
+MAINTAINER=	christian@FreeBSD.org
+COMMENT=	Bibliotecas comuns e toolkit para o COSMIC DE (Rust)
+WWW=		https://github.com/pop-os/libcosmic
+
+LIB_DEPENDS=	libudev.so:devel/libudev-devd \
+		libdisplay-info.so:sysutils/libdisplay-info \
+		libseat.so:sysutils/seatd \
+		libinput.so:x11/libinput \
+		libxkbcommon.so:x11/libxkbcommon
+RUN_DEPENDS=	mesa-dri>0:graphics/mesa-dri \
+		vulkan-loader>0:graphics/vulkan-loader \
+		Xwayland:x11-servers/xwayland
+
+BUILD_DEPENDS=	rust>=1.88.0:lang/rust
+
+USES=		cargo gl xorg
+#cargo home
+CARGO_HOME=	${WRKDIR}/.cargo
+
+USE_GITHUB=	yes
+USE_GL=		gbm
+USE_XORG=	pixman
+GH_ACCOUNT=	pop-os
+
+# GH_COMMIT= 38004239
+# GH_TAGNAME=     ${DISTVERSIONPREFIX}${DISTVERSION}
+
+# GH_COMMIT=	38004239
+GH_TAGNAME=	38004239
+
+# udev nativo
+CARGO_FEATURES=	 --no-default-features
+
+# O diretório de trabalho é a raiz do repositório clonado
+# WRKSRC=		${GITHUB_WRKSRC}
+
+GH_PROJECT=	libcosmic
+#WRKSRC_SUBDIR=	libcosmic-${GH_TAGNAME}
+WRKSRC=		${WRKDIR}/${GH_PROJECT}-${GH_TAGNAME}
+
+# LICENSE
+
+LICENSE=	GPLv3+
+LICENSE_FILE=	${WRKSRC}/LICENSE
+
+# Git commands
+
+GIT=		git
+
+# =========================================================================
+# Tarefas de Compilação
+# =========================================================================
+
+
+
+post-extract:
+	@${ECHO} "=> Inicializando submódulos Git..."
+	# Usa o bmake para mudar o diretório e, em seguida, executa o comando git.
+	# O .força a execução do comando dentro do WRKSRC.
+	@cd ${WRKSRC} && ${GIT} submodule update --init --recursive
+
+do-build:
+# Executa o cargo build com as features desabilitadas
+	@${SETENV} ${CARGO_ENV} ${CARGO_BIN} ${CARGO_BUILD_ARGS} \
+		--features ${CARGO_FEATURES} \
+		--target-dir ${WRKDIR}/target \
+		--release \
+		--manifest-path ${WRKSRC}/Cargo.toml
+
+# =========================================================================
+# Tarefas de Instalação (Instala a biblioteca para linkagem)
+# =========================================================================
+
+do-install:
+    # Instala o arquivo da biblioteca Rust (.rlib) para que outros Ports possam encontrá-lo
+	@${MKDIR} ${STAGEDIR}${PREFIX}/lib/rustlib/${PORTNAME}
+	${INSTALL_DATA} ${WRKDIR}/target/release/lib${PORTNAME}.rlib \
+	${STAGEDIR}${PREFIX}/lib/rustlib/${PORTNAME}/
+
+.include <bsd.port.mk>

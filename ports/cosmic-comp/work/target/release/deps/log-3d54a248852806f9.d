@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/log-3d54a248852806f9.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/macros.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/serde.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/__private_api.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/liblog-3d54a248852806f9.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/macros.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/serde.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/__private_api.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/liblog-3d54a248852806f9.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/macros.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/serde.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/__private_api.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/macros.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/serde.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/log-0.4.28/src/__private_api.rs:

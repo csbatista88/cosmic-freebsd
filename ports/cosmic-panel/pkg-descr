@@ -1,0 +1,8 @@
+The primary panel and taskbar component for the COSMIC desktop environment (DE).
+
+cosmic-panel is responsible for drawing the main system bar, housing the
+clock, system status indicators (like network and volume applets), and
+managing workspaces and application switching.
+
+This component is essential for visual interaction within the COSMIC Wayland
+session and requires the cosmic-comp (compositor) to be running.

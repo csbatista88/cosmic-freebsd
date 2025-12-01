@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/polling-62d3a233f4c0f083.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os/kqueue.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libpolling-62d3a233f4c0f083.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os/kqueue.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libpolling-62d3a233f4c0f083.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os/kqueue.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/kqueue.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/os/kqueue.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/polling-3.11.0/src/kqueue.rs:

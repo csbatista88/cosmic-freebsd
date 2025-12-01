@@ -1,0 +1,8 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/serde_with_macros-783ac595c6ae55ec.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/apply.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lazy_bool.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/utils.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libserde_with_macros-783ac595c6ae55ec.so: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/apply.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lazy_bool.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/utils.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/apply.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/lazy_bool.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/serde_with_macros-3.15.0/src/utils.rs:

@@ -1,0 +1,9 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/linebender_resource_handle-4ccb39e23421e1e7.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/blob.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/font.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/liblinebender_resource_handle-4ccb39e23421e1e7.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/blob.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/font.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/liblinebender_resource_handle-4ccb39e23421e1e7.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/blob.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/font.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/blob.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/linebender_resource_handle-0.1.1/src/font.rs:

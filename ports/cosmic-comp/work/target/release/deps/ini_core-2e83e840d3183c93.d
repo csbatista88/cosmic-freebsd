@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/ini_core-2e83e840d3183c93.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/generic.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/sse2.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libini_core-2e83e840d3183c93.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/generic.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/sse2.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libini_core-2e83e840d3183c93.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/generic.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/sse2.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/mod.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/generic.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/ini_core-0.2.0/src/parse/sse2.rs:

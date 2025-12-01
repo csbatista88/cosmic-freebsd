@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/derive_utils-8de946c20ea083e3.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/ast.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/parse.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libderive_utils-8de946c20ea083e3.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/ast.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/parse.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libderive_utils-8de946c20ea083e3.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/error.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/ast.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/parse.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/error.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/ast.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/derive_utils-0.15.0/src/parse.rs:

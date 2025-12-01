@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/kqueue-00c6f54cefcca67e.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/vnode.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/time.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libkqueue-00c6f54cefcca67e.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/vnode.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/time.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libkqueue-00c6f54cefcca67e.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/mod.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/vnode.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/time.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/mod.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/os/vnode.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/kqueue-1.1.1/src/time.rs:

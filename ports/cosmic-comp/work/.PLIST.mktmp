@@ -1,0 +1,7 @@
+bin/cosmic-comp
+share/cosmic/com.system76.CosmicSettings.Shortcuts/v1/defaults/keybindings.ron
+share/cosmic/com.system76.CosmicSettings.WindowRules/v1/tiling_exception_defaults/tiling-exceptions.ron
+share/wayland-sessions/cosmic.desktop
+/usr/local/share/licenses/cosmic-comp-1.0.0.b.7/catalog.mk
+/usr/local/share/licenses/cosmic-comp-1.0.0.b.7/LICENSE
+/usr/local/share/licenses/cosmic-comp-1.0.0.b.7/GPLv3+

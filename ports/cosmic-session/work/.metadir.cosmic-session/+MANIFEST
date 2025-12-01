@@ -1,0 +1,18 @@
+name: "cosmic-session"
+version: "1.0.0.b.7"
+origin: x11/cosmic-session
+comment: <<EOD
+O gerenciador de sessão para o ambiente de desktop COSMIC (Rust)
+EOD
+maintainer: christian@FreeBSD.org
+prefix: /usr/local
+categories: [ x11, wayland, ]
+licenselogic: single
+www: "https://github.com/pop-os/cosmic-comp"
+licenses: [ GPLv3+, ]
+deps: { 
+"libudev-devd": {origin: "devel/libudev-devd", version: "0.6.0"}
+"seatd": {origin: "sysutils/seatd", version: "0.9.1"}
+}
+options: {
+}

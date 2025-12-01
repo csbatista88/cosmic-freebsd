@@ -1,0 +1,9 @@
+The session manager for the COSMIC desktop environment (DE).
+
+cosmic-session is the core component responsible for initializing the
+Wayland compositor (cosmic-comp) and launching all necessary components
+of the COSMIC shell, such as panels, background services, and input
+configuration.
+
+This package provides the necessary binary and desktop file to start a
+full COSMIC session from a display manager like SDDM or GDM.

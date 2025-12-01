@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/endi-30fb76809550e909.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/endian.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/io.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/../README.md
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libendi-30fb76809550e909.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/endian.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/io.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/../README.md
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libendi-30fb76809550e909.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/endian.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/io.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/../README.md
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/endian.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/io.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/endi-1.1.0/src/../README.md:

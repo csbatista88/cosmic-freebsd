@@ -1,0 +1,84 @@
+# /home/christian/ports/cosmic-panel/Makefile
+PORTNAME=	cosmic-panel
+DISTVERSIONPREFIX=	epoch-
+DISTVERSION=	1.0.0-beta.7
+CATEGORIES=	x11 wayland
+
+MAINTAINER=	christian@FreeBSD.org
+COMMENT=	O painel e barra de tarefas do ambiente de desktop COSMIC (Rust)
+WWW=		https://github.com/pop-os/cosmic-panel
+
+#local distfiles
+DISTDIR=	${.CURDIR}/../distfiles
+
+LICENSE=	GPLv3+
+LICENSE_FILE=	${WRKSRC}/LICENSE
+
+
+LIB_DEPENDS=	libudev.so:devel/libudev-devd \
+		libdisplay-info.so:sysutils/libdisplay-info \
+		libxkbcommon.so:x11/libxkbcommon
+
+
+# Dependência em libcosmic (A SER CRIADA):
+# RUN_DEPENDS+= libcosmic>=1.0.0:x11/libcosmic
+
+BUILD_DEPENDS=	rust>=1.90.0:lang/rust
+
+
+GH_TUPLE=	pop-os:iced:c9cd78e030d5b228f190af28d908e1fbcf8737ce:iced \
+		pop-os:cosmic-protocols:d0e95be25e423cfe523b11111a3666ed7aaf0dc4:cosmic_protocols
+
+USES=		cargo gl xorg
+USE_GITHUB=	yes
+USE_GL=		gbm
+USE_XORG=	pixman
+
+GH_ACCOUNT=	pop-os
+GH_PROJECT=	cosmic-panel
+GH_TAGNAME=	epoch-1.0.0-beta.7
+
+# udev
+CARGO_FEATURES+=--no-default-features
+
+
+CARGO_VENDOR_DIR=	${WRKSRC}/cargo-crates
+
+# =========================================================================
+# Arquivos Instalados (PLIST)
+# =========================================================================
+
+PLIST_FILES=	bin/${PORTNAME} \
+		share/xsessions/cosmic-panel-x.desktop
+
+# =========================================================================
+# Tasks
+# =========================================================================
+
+
+LIBCOSMIC_HASH=	4c4eddb50c79ace202c76b0f6972596930537e1b
+ICED_HASH=	c9cd78e030d5b228f190af28d908e1fbcf8737ce
+LIBCOSMIC_WRKDIR=	${WRKDIR}/libcosmic-${LIBCOSMIC_HASH}
+ICED_WRKDIR=		${WRKDIR}/iced-${ICED_HASH}
+
+post-extract:
+	@${ECHO_MSG} "=> Renaming LICENSE.md to LICENSE for dbus-settings-bindings"
+	@if [ -f ${WRKSRC}/LICENSE.md ]; then \
+		${MV} ${WRKSRC}/LICENSE.md ${WRKSRC}/LICENSE; \
+	fi
+
+
+	@${ECHO_MSG} "=> Copying missing 'iced' submodule into libcosmic work directory"
+	@if [ -d ${ICED_WRKDIR} ]; then \
+		${CP} -R ${ICED_WRKDIR}/. ${LIBCOSMIC_WRKDIR}/iced/; \
+	else \
+		${ECHO_MSG} "--- WARNING: ICED submodule source directory not found in ${ICED_WRKDIR}. ---"; \
+	fi
+
+do-install:
+	# Instala o binário principal
+	${INSTALL_PROGRAM} ${WRKDIR}/target/release/${PORTNAME} \
+		${STAGEDIR}${PREFIX}/bin/
+
+
+.include <bsd.port.mk>

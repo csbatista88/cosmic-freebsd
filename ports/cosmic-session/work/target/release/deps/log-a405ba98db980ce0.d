@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/log-a405ba98db980ce0.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/macros.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/serde.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/__private_api.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/liblog-a405ba98db980ce0.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/macros.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/serde.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/__private_api.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/liblog-a405ba98db980ce0.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/macros.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/serde.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/__private_api.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/macros.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/serde.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/log-0.4.27/src/__private_api.rs:

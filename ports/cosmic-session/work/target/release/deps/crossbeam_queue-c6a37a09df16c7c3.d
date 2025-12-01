@@ -1,0 +1,9 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/crossbeam_queue-c6a37a09df16c7c3.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/array_queue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/seg_queue.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libcrossbeam_queue-c6a37a09df16c7c3.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/array_queue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/seg_queue.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libcrossbeam_queue-c6a37a09df16c7c3.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/array_queue.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/seg_queue.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/array_queue.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/crossbeam-queue-0.3.12/src/seg_queue.rs:

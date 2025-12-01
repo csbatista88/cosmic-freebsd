@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/idna-33fb0e01c9341661.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/deprecated.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/punycode.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/uts46.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libidna-33fb0e01c9341661.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/deprecated.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/punycode.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/uts46.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libidna-33fb0e01c9341661.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/deprecated.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/punycode.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/uts46.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/deprecated.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/punycode.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/idna-1.1.0/src/uts46.rs:

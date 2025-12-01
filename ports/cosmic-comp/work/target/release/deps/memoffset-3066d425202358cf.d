@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-comp/work/target/release/deps/memoffset-3066d425202358cf.d: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/raw_field.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/offset_of.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/span_of.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libmemoffset-3066d425202358cf.rlib: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/raw_field.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/offset_of.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/span_of.rs
+
+/home/christian/ports/cosmic-comp/work/target/release/deps/libmemoffset-3066d425202358cf.rmeta: /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/lib.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/raw_field.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/offset_of.rs /home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/span_of.rs
+
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/lib.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/raw_field.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/offset_of.rs:
+/home/christian/ports/cosmic-comp/work/cosmic-comp-epoch-1.0.0-beta.7/cargo-crates/memoffset-0.9.1/src/span_of.rs:

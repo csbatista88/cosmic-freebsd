@@ -1,0 +1,10 @@
+/home/christian/ports/cosmic-session/work/target/release/deps/autocfg-c6831311a5026e84.d: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libautocfg-c6831311a5026e84.rlib: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-session/work/target/release/deps/libautocfg-c6831311a5026e84.rmeta: /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs /home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs
+
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/lib.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/error.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/rustc.rs:
+/home/christian/ports/cosmic-session/work/cosmic-session-epoch-1.0.0-beta.7/cargo-crates/autocfg-1.5.0/src/version.rs:

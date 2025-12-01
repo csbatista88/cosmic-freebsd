@@ -1,0 +1,51 @@
+[source.cargo]
+directory = '/home/christian/ports/libcosmic/work/libcosmic-38004239//cargo-crates'
+[source.crates-io]
+replace-with = 'cargo'
+[patch.'https://github.com/pop-os/dbus-settings-bindings']
+cosmic-settings-daemon = { path = '/home/christian/ports/libcosmic/work/dbus-settings-bindings-b2337437d70b3db7a56211a43aa1632306711b2d/cosmic-settings-daemon' }
+[patch.'https://github.com/pop-os/cosmic-protocols']
+cosmic-client-toolkit = { path = '/home/christian/ports/libcosmic/work/cosmic-protocols-d0e95be25e423cfe523b11111a3666ed7aaf0dc4/client-toolkit' }
+cosmic-protocols = { path = '/home/christian/ports/libcosmic/work/cosmic-protocols-d0e95be25e423cfe523b11111a3666ed7aaf0dc4' }
+[patch.'https://github.com/pop-os/cosmic-panel']
+cosmic-panel-config = { path = '/home/christian/ports/libcosmic/work/cosmic-panel-8f445a4ce944b6422e6310da06ad15a311c2bbf8/cosmic-panel-config' }
+xdg-shell-wrapper-config = { path = '/home/christian/ports/libcosmic/work/cosmic-panel-8f445a4ce944b6422e6310da06ad15a311c2bbf8/xdg-shell-wrapper-config' }
+[patch.'https://github.com/pop-os/cosmic-text.git']
+cosmic-text = { path = '/home/christian/ports/libcosmic/work/cosmic-text-9339446cfa9b7f0110094a97764dccc09cfa98a2' }
+[patch.'https://github.com/jackpot51/rust-atomicwrites']
+atomicwrites = { path = '/home/christian/ports/libcosmic/work/rust-atomicwrites-043ab4859d53ffd3d55334685303d8df39c9f768' }
+[patch.'https://github.com/pop-os/cosmic-settings-daemon']
+cosmic-settings-config = { path = '/home/christian/ports/libcosmic/work/cosmic-settings-daemon-d67de203ced04c5b8ec3486d93e0e61876a8ee91/config' }
+[patch.'https://github.com/pop-os/glyphon.git']
+iced_glyphon = { path = '/home/christian/ports/libcosmic/work/glyphon-iced-0.14-dev' }
+[patch.'https://github.com/pop-os/window_clipboard.git']
+clipboard_macos = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2/macos' }
+clipboard_wayland = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2/wayland' }
+clipboard_x11 = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2/x11' }
+dnd = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2/dnd' }
+mime = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2/mime' }
+window_clipboard = { path = '/home/christian/ports/libcosmic/work/window_clipboard-pop-0.13-2' }
+[patch.'https://github.com/wash2/accesskit']
+accesskit = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/common' }
+accesskit_atspi_common = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/platforms/atspi-common' }
+accesskit_consumer = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/consumer' }
+accesskit_macos = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/platforms/macos' }
+accesskit_unix = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/platforms/unix' }
+accesskit_windows = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/platforms/windows' }
+accesskit_winit = { path = '/home/christian/ports/libcosmic/work/accesskit-iced-xdg-surface-0.13-rc/platforms/winit' }
+[patch.'https://github.com/pop-os/freedesktop-icons']
+cosmic-freedesktop-icons = { path = '/home/christian/ports/libcosmic/work/freedesktop-icons-689c60d428f46dc59316eafa22297e196afa4b15' }
+[patch.'https://github.com/pop-os/winit.git']
+dpi = { path = '/home/christian/ports/libcosmic/work/winit-iced-xdg-surface-0.13-rc/dpi' }
+winit = { path = '/home/christian/ports/libcosmic/work/winit-iced-xdg-surface-0.13-rc' }
+[patch.'https://github.com/pop-os/smithay-clipboard']
+smithay-clipboard = { path = '/home/christian/ports/libcosmic/work/smithay-clipboard-pop-dnd-5' }
+[patch.'https://github.com/pop-os/libcosmic']
+cosmic-config = { path = '/home/christian/ports/libcosmic/work/libcosmic-fc85fcac3e1d1b7a05982e7396a8bc23ff4d0143/cosmic-config' }
+cosmic-config-derive = { path = '/home/christian/ports/libcosmic/work/libcosmic-fc85fcac3e1d1b7a05982e7396a8bc23ff4d0143/cosmic-config-derive' }
+iced_core = { path = '/home/christian/ports/libcosmic/work/libcosmic-fc85fcac3e1d1b7a05982e7396a8bc23ff4d0143' }
+iced_futures = { path = '/home/christian/ports/libcosmic/work/libcosmic-fc85fcac3e1d1b7a05982e7396a8bc23ff4d0143' }
+[patch.'https://github.com/pop-os/softbuffer']
+softbuffer = { path = '/home/christian/ports/libcosmic/work/softbuffer-cosmic-4.0' }
+[patch.'https://github.com/pop-os/cosmic-time']
+cosmic-time = { path = '/home/christian/ports/libcosmic/work/cosmic-time-bbb9fb829b25e0bc2bbb382c25543646e82cda62' }
